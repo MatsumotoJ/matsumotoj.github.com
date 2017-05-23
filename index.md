@@ -5,7 +5,9 @@ I am a Japanese neuroscientist working at [System Emotional Science](http://www.
 
 ***
 ##<a name ="News">News
-**(Dec/14/2016)** 3DTracker has been applied for monkey motion capture. [_link to the paper_](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166154) 
+**(May/23/2017)** 3DTracker has been applied for monkey motion capture. [_link to the paper_](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166154) 
+
+**(Dec/14/2016)** We launched the official site of 3DTracker ([3Dtracker.org](http://www.3dtracker.org)), for futher sharing the work and open-source development. Check it!
 
 **(Dec/14/2016)** 3DTracker has been used with electrophysiological recording and ultrasound recording for investigating naturalistic social behavior in rats [_link to the paper_](http://journal.frontiersin.org/article/10.3389/fnins.2016.00399/full)  
 
