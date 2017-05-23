@@ -1,0 +1,8 @@
+title: Jumpei Matsumoto, Ph.D.
+description: System Emotional Science, University of Toyama, Japan
+google_analytics: UA-45816158-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
