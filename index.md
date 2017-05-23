@@ -1,10 +1,10 @@
 # Welcome!!
 I am a Japanese neuroscientist working at [System Emotional Science](http://www.med.u-toyama.ac.jp/sysemosci/) in [University of Toyama](http://www.u-toyama.ac.jp/en/index.html). This page is for self-introduction and distribution of our software for research. 
 
-####| [News](#News) | [3DTracker](#3DTracker) | [Publications](#Publications) | [Forum](http://matsumotoj.prophpbb.com/) |
+### | [News](#News) | [3DTracker](#3DTracker) | [Publications](#Publications) | [Forum](http://matsumotoj.prophpbb.com/) |
 
 ***
-##<a name ="News">News
+## <a name ="News">News
 
 **(May/23/2017)** We launched an official site of 3DTracker ([3Dtracker.org](http://www.3dtracker.org)), for futher sharing the work and open-source development. Check it and join us!
 
