@@ -18,7 +18,7 @@ I am a Japanese neuroscientist working at [System Emotional Science](http://www.
 
 ## <a name ="3DTracker">3DTracker
 
-### _Check the [3DTracker.org](http://www.3dtracker.org) for the software for further information._
+### _Check the [3DTracker.org](http://www.3dtracker.org) for further information about the software._
 
 ![screen shot](https://github.com/MatsumotoJ/matsumotoj.github.com/blob/master/images/scrnshot_3Dm.png?raw=true)  
 See also a [video](https://www.dropbox.com/s/cyldvv879n5cwf0/3Dtracker_demo.mp4?dl=1). 動画は[こちら](https://www.dropbox.com/s/cyldvv879n5cwf0/3Dtracker_demo.mp4?dl=1)
