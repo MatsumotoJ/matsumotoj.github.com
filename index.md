@@ -6,7 +6,7 @@ I am a Japanese neuroscientist working at [System Emotional Science](http://www.
 ***
 ## <a name ="News">News
 
-**(May/23/2017)** We launched an official site of 3DTracker ([3Dtracker.org](http://www.3dtracker.org)), for futher sharing the work and open-source development. Check it and join us!
+**(May/23/2017)** We launched an web site for 3DTracker ([3Dtracker.org](http://www.3dtracker.org)), for futher sharing the work and open-source development. Check it and join us!
 
 **(Dec/14/2016)** 3DTracker has been applied for monkey motion capture. [_link to the paper_](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166154) 
 
@@ -18,16 +18,12 @@ I am a Japanese neuroscientist working at [System Emotional Science](http://www.
 
 ## <a name ="3DTracker">3DTracker
 
+### Check the [3DTracker.org](http://www.3dtracker.org) for the software for further information.
+
 ![screen shot](https://github.com/MatsumotoJ/matsumotoj.github.com/blob/master/images/scrnshot_3Dm.png?raw=true)  
 See also a [video](https://www.dropbox.com/s/cyldvv879n5cwf0/3Dtracker_demo.mp4?dl=1). 動画は[こちら](https://www.dropbox.com/s/cyldvv879n5cwf0/3Dtracker_demo.mp4?dl=1)
 
-We developed a novel 3D marker-less motion capture and behavior analysis system for interacting rodents, named *3DTracker*. It's open-source software available at [PLoS ONE](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0078460). I am preparing to provide updates of the software through [Github](https://github.com/MatsumotoJ). 
-
-For details of the program, please see the paper below.
-
-**Matsumoto J**, Urakawa S, Takamura Y, Malcher-Lopes R, Hori E, Tomaz C, Ono T, and Nishijo H (2013) A 3D-video-based computerized analysis of social and sexual interactions in rats. _PLoS ONE_ 8:e78460 - [_Download_](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0078460)
-
-Questions, suggestions or comments about the software is welcome in [this discussion forum](http://matsumotoj.prophpbb.com/).
+We developed a novel 3D marker-less motion capture and behavior analysis system for interacting rodents, named *3DTracker*. It's open-source software available at [PLoS ONE](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0078460). We are preparing to provide updates of the software, documents, user communication forum and more, through a special web site, [3DTracker.org](http://www.3dtracker.org). 
 
 ## <a name ="Publications">Publications
 Nakamura T, **Matsumoto J**, Nishimaru H, Bretas R, Takamura Y, Hori E, Ono T, Nishijo H. A markerless 3D computerized motion capture system incorporating a skeleton model for monkeys. _PLoS One_ 2016 Nov 3;11(11):e0166154
