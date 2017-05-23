@@ -29,7 +29,7 @@ For details of the program, please see the paper below.
 
 Questions, suggestions or comments about the software is welcome in [this discussion forum](http://matsumotoj.prophpbb.com/).
 
-##<a name ="Publications">Publications
+## <a name ="Publications">Publications
 Nakamura T, **Matsumoto J**, Nishimaru H, Bretas R, Takamura Y, Hori E, Ono T, Nishijo H. A markerless 3D computerized motion capture system incorporating a skeleton model for monkeys. _PLoS One_ 2016 Nov 3;11(11):e0166154
 
 **Matsumoto J**, Nishimaru H, Takamura Y, Urakawa S, Ono T, Nishijo H. Amygdalar auditory neurons contribute to self-other distinction during ultrasonic social vocalization in rats. _Front Neurosci_ 10:399
