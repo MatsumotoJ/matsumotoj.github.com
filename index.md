@@ -1,12 +1,11 @@
-
-<img src="jm2024.jpg" style="max-width:400px; height:auto;"/>    
+<img src="images/jm2024.jpg" style="max-width:400px; height:auto;"/>    
 <br>
 
 准教授<br>
 富山大学学術研究部・医学系<br>
 [システム情動科学講座](http://www.med.u-toyama.ac.jp/sysemosci/%e7%b4%b9%e4%bb%8b.html)<br>
 〒930-0194　富山県富山市杉谷2630 <br>
-Email: jm<img src="mailadd.jpg" style="height:1em; width:auto; vertical-align:-0.15em;"/> <br>
+Email: jm<img src="images/mailadd.jpg" style="height:1em; width:auto; vertical-align:-0.15em;"/> <br>
 [Researchmap](https://researchmap.jp/j_matsu) / 
 [Google Schoalr](https://scholar.google.co.jp/citations?user=_d71FFcAAAAJ&hl=ja) / 
 [GitHib](https://github.com/MatsumotoJ) / 
@@ -53,7 +52,7 @@ frameborder="0" allowfullscreen></iframe>
 
 ### 生活環境について
 
-<img src="toyama1.jpeg" style="max-width:300px; height:auto;"/><br>
+<img src="images/toyama1.jpeg" style="max-width:300px; height:auto;"/><br>
 <font size="1"> ©（公社）とやま観光推進機構 </font>
 
 富山は、海と山に囲まれた自然豊かな地域で、広々とした暮らしやすい環境が特徴です。北陸新幹線により、都市圏へのアクセスも良いです。富山駅から京都駅までは約2時間半、東京駅へは約2時間で移動可能です。
