@@ -53,9 +53,7 @@ frameborder="0" allowfullscreen></iframe>
 
 ### 生活環境について
 
-<img src="images/toyama1.jpeg" style="max-width:300px; height:auto;"/>
-
-<font size="1"> ©（公社）とやま観光推進機構 </font>
+<img src="images/toyama1.jpeg" style="max-width:300px; height:auto;"/><br><font size="1"> ©（公社）とやま観光推進機構 </font><br>
 
 富山は、海と山に囲まれた自然豊かな地域で、広々とした暮らしやすい環境が特徴です。北陸新幹線により、都市圏へのアクセスも良いです。富山駅から京都駅までは約2時間半、東京駅へは約2時間で移動可能です。
 
