@@ -1,6 +1,4 @@
 
-<font size="6">松本 惇平</font> (Jumpei Matsumoto) 博士(医学)
-
 <img src="jm2024.jpg" style="max-width:400px; height:auto;"/>    
 <br>
 
