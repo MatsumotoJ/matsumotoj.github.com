@@ -1,11 +1,6 @@
 title: Jumpei Matsumoto, Ph.D.
 description: Personal Website
-google_analytics: UA-45816158-1
-show_downloads: true
 theme: minima
 
-gems:
+plugins:
   - jekyll-mentions
-
-minima:
-  skin: dark
