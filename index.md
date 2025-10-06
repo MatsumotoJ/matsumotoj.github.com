@@ -1,3 +1,8 @@
+---
+layout: page
+title: "ようこそ"
+---
+
 <font size="6">松本 惇平</font> (Jumpei Matsumoto) 博士(医学)
 
 <img src="images/jm2024.jpg" style="max-width:400px; height:auto;"/>    
