@@ -1,7 +1,6 @@
 <font size="6">松本 惇平</font> (Jumpei Matsumoto) 博士(医学)
 
-<img src="images/jm2024.jpg" style="max-width:400px; height:auto;"/>    
-<br>
+<img src="images/jm2024.jpg" style="max-width:400px; height:auto;"/>
 
 准教授<br>
 富山大学学術研究部・医学系<br>
