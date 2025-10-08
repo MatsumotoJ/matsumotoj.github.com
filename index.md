@@ -14,9 +14,11 @@ Email: jm<img src="images/mailadd.jpg" style="height:1em; width:auto; vertical-a
 所属学会: 日本神経科学会, 日本生理学会, 日本動物心理学会, 北米神経科学会<br>
 (写真は2024年10月に撮影)
 
+---
 # 目次
 [お知らせ](#お知らせ) / [研究の興味](#研究の興味) / [研究手法・研究環境](#研究手法・研究環境) / [経歴](#経歴) / [主な論文](#主な論文) / [公開リソース](#公開リソース)
 
+---
 # お知らせ
 
 <u>大学院生、卒研生、卒研前の学部生、研究スタッフ、アルバイト等</u>を募集しています。
@@ -27,6 +29,7 @@ Email: jm<img src="images/mailadd.jpg" style="height:1em; width:auto; vertical-a
 - 研究室内でのアルバイトもあります：機械学習用の教師データ作成支援など。
 - 研究スタッフの募集は[こちら](https://www.u-toyama.ac.jp/wp/wp-content/uploads/employ_20250825-1.pdf)
 
+---
 # 研究の興味
 
 私たち人間の脳の働きを理解し、さまざまな疾患における脳機能の異常を治療するには、実験動物を用いた詳しい研究が不可欠です。しかし、動物は人間と違って、自分の気持ちなどの内面の状態を言葉で伝えることができません。このことは、特に情動(感情)や社会性といった私たちの“心”に深く関わる脳の働きを研究する上で、長い間大きな壁になってきました。
@@ -35,15 +38,12 @@ Email: jm<img src="images/mailadd.jpg" style="height:1em; width:auto; vertical-a
 
 具体的には、これまでに、AI技術等を活用したサルやネズミ用のマーカーレス・モーションキャプチャー(下記動画1)や、音源定位法を用いた音声コミュニケーションの測定技術(動画2)などを開発してきました。現在は、これらの技術を統合・発展させるとともに、主に社会行動に関わる脳機能の研究への応用を進めています。
 
-**動画1**: マーカーレス・モーションキャプチャーによるサル集団の社会行動解析 (Matsumoto et al., 2025, *Science Advances*): 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/UC0WZiKxrj4"
-frameborder="0" allowfullscreen></iframe>
-
-**動画2**: 音源定位法によるネズミの超音波音声コミュニケーションの解析 (Matsumoto et al., 2022, *iScience*): 
+frameborder="0" allowfullscreen></iframe><br><b>動画1</b>: マーカーレス・モーションキャプチャーによるサル集団の社会行動解析 (Matsumoto et al., 2025, *Science Advances*)<br><br>
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/w4XTPwqTDFI"
-frameborder="0" allowfullscreen></iframe>
+frameborder="0" allowfullscreen></iframe><br><b>動画2</b>: 音源定位法によるネズミの超音波音声コミュニケーションの解析 (Matsumoto et al., 2022, *iScience*)<br><br>
 
 # 研究手法・研究環境
 
