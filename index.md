@@ -92,7 +92,7 @@ Fuzzo F, **Matsumoto J**, Kiyokawa Y, Takeuchi Y, Ono T, Nishijo H (2015) Social
 
 **Matsumoto J**, Urakawa S, Hori E, de Araujo MF, Sakuma Y, Ono T, Nishijo H (2012) Neuronal responses in the nucleus accumbens shell during sexual behavior in male rats. *Journal of Neuroscience* 32(5):1672-86. 
 
-全論文リスト: [Research map](https://researchmap.jp/j_matsu) / [Google schoalr](https://scholar.google.co.jp/citations?user=_d71FFcAAAAJ&hl=ja) 
+全論文リスト: [Researchmap](https://researchmap.jp/j_matsu) / [Google Schoalr](https://scholar.google.co.jp/citations?user=_d71FFcAAAAJ&hl=ja) 
 
 ---
 # 公開リソース
