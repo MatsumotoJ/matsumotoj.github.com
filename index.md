@@ -14,8 +14,7 @@ Email: jm<img src="images/mailadd.jpg" style="height:1em; width:auto; vertical-a
 所属学会: 日本神経科学会, 日本生理学会, 日本動物心理学会, 北米神経科学会<br>
 (写真は2024年10月に撮影)
 
----
-# 目次
+## 目次
 [お知らせ](#お知らせ) / [研究の興味](#研究の興味) / [研究手法・研究環境](#研究手法・研究環境) / [経歴](#経歴) / [主な論文](#主な論文) / [公開リソース](#公開リソース)
 
 ---
@@ -43,8 +42,9 @@ src="https://www.youtube.com/embed/UC0WZiKxrj4"
 frameborder="0" allowfullscreen></iframe><br><b>動画1</b>: マーカーレス・モーションキャプチャーによるサル集団の社会行動解析 (Matsumoto et al., 2025, *Science Advances*)<br><br>
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/w4XTPwqTDFI"
-frameborder="0" allowfullscreen></iframe><br><b>動画2</b>: 音源定位法によるネズミの超音波音声コミュニケーションの解析 (Matsumoto et al., 2022, *iScience*)<br><br>
+frameborder="0" allowfullscreen></iframe><br><b>動画2</b>: 音源定位法によるネズミの超音波音声コミュニケーションの解析 (Matsumoto et al., 2022, *iScience*)<br>
 
+---
 # 研究手法・研究環境
 
 研究対象としている動物は、主にネズミ（マウス・ラット）とサル（マカクサル・マーモセット）です。独自に開発を進めている行動解析技術に加え、行動中の動物からニューロン活動を記録する電気生理学的手法においても豊富な実績があります。近年では、光遺伝学、化学遺伝学、光イメージングといった先進的な技術を導入し、神経回路レベルでの脳機能の解明に取り組んでいます。
@@ -57,6 +57,7 @@ frameborder="0" allowfullscreen></iframe><br><b>動画2</b>: 音源定位法に�
 
 富山は、海と山に囲まれた自然豊かな地域で、広々とした暮らしやすい環境が特徴です。北陸新幹線により、都市圏へのアクセスも良いです。富山駅から京都駅までは約2時間半、東京駅へは約2時間で移動可能です。
 
+---
 # 経歴
 
 - 2002-2006年: 東北大学 理学部 生物学科 卒業	
@@ -66,6 +67,7 @@ frameborder="0" allowfullscreen></iframe><br><b>動画2</b>: 音源定位法に�
 - 2015-2017年: コレージュ・ド・フランス Brain Rhythms and Neural Coding of Memory, CIRB 客員研究員
 - 2025年-現在: 富山大学 学術研究部・医学系 システム情動科学講座 准教授
 
+---
 # 主な論文
 
 **Matsumoto J**, Kaneko T, Kimura K, Blanco Negrete S, Guo J, Suda-Hashimoto N, Kaneko A, Morimoto M, Nishimaru H, Setogawa T, Go Y, Shibata T, Nishijo H, Takada M, Inoue K (2025)Three-dimensional markerless motion capture of multiple freely behaving monkeys toward automated characterization of social behavior. *Science Advances* 11(26):eadn1355.
@@ -92,6 +94,7 @@ Fuzzo F, **Matsumoto J**, Kiyokawa Y, Takeuchi Y, Ono T, Nishijo H (2015) Social
 
 全論文リスト: [Research map](https://researchmap.jp/j_matsu) / [Google schoalr](https://scholar.google.co.jp/citations?user=_d71FFcAAAAJ&hl=ja) 
 
+---
 # 公開リソース
 
 - [MacaquePose](https://www.pri.kyoto-u.ac.jp/datasets/macaquepose/index.html): マカクサル姿勢の大規模教師データセット 
