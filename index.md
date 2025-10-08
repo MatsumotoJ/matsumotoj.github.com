@@ -39,10 +39,10 @@ Email: jm<img src="images/mailadd.jpg" style="height:1em; width:auto; vertical-a
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/UC0WZiKxrj4"
-frameborder="0" allowfullscreen></iframe><br><b>動画1</b>: マーカーレス・モーションキャプチャーによるサル集団の社会行動解析 (Matsumoto et al., 2025, *Science Advances*)<br><br>
+frameborder="0" allowfullscreen></iframe><b>動画1</b>: マーカーレス・モーションキャプチャーによるサル集団の社会行動解析 (Matsumoto et al., 2025, *Science Advances*)<br><br>
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/w4XTPwqTDFI"
-frameborder="0" allowfullscreen></iframe><br><b>動画2</b>: 音源定位法によるネズミの超音波音声コミュニケーションの解析 (Matsumoto et al., 2022, *iScience*)<br>
+frameborder="0" allowfullscreen></iframe><b>動画2</b>: 音源定位法によるネズミの超音波音声コミュニケーションの解析 (Matsumoto et al., 2022, *iScience*)<br>
 
 ---
 # 研究手法・研究環境
