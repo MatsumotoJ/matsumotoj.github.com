@@ -70,7 +70,7 @@ frameborder="0" allowfullscreen></iframe><b>動画2</b>: 音源定位法によ�
 ---
 # 主な論文
 
-**Matsumoto J**, Kaneko T, Kimura K, Blanco Negrete S, Guo J, Suda-Hashimoto N, Kaneko A, Morimoto M, Nishimaru H, Setogawa T, Go Y, Shibata T, Nishijo H, Takada M, Inoue K (2025)Three-dimensional markerless motion capture of multiple freely behaving monkeys toward automated characterization of social behavior. *Science Advances* 11(26):eadn1355.
+**Matsumoto J**, Kaneko T, Kimura K, Blanco Negrete S, Guo J, Suda-Hashimoto N, Kaneko A, Morimoto M, Nishimaru H, Setogawa T, Go Y, Shibata T, Nishijo H, Takada M, Inoue K (2025) Three-dimensional markerless motion capture of multiple freely behaving monkeys toward automated characterization of social behavior. *Science Advances* 11(26):eadn1355.
 
 Mimura K, **Matsumoto J**, Mochihashi D, Nakamura T, Nishijo H, Higuchi M, Hirabayashi T, Minamimoto T (2024) Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs. *Communications Biology* 7(1):1080.
 
