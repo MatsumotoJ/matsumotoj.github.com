@@ -58,8 +58,8 @@ We also collaborate with domestic (Kagoshima Univ., Kyushu Inst. of Tech., Nagoy
 
 ### Living Environment
 
-<img src="images/toyama1.jpeg" style="max-width:300px; height:auto;"/><br>
-<font size="1">©（公社）とやま観光推進機構</font><br>
+<img src="images/toyama1.jpeg" style="max-width:300px; height:auto;"/><br><font size="1">©（公社）とやま観光推進機構</font><br>
+
 Toyama is a region rich in nature, surrounded by the sea and mountains, characterized by its spacious and comfortable living environment. Thanks to the Hokuriku Shinkansen, access to major cities is convenient — about 2.5 hours to Kyoto and 2 hours to Tokyo from Toyama Station.
 
 ---
