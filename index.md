@@ -1,3 +1,4 @@
+<span style="float: right;">Japanese/[English](./index_en.md)</span>
 <font size="6">松本 惇平</font> (Jumpei Matsumoto) 博士(医学)
 
 <img src="images/jm2024.jpg" style="max-width:400px; height:auto;"/>
