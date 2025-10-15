@@ -1,5 +1,5 @@
 <span style="float: right;">[Japanese](./index.md)/English</span>
-<font size="6">Jumpei Matsumoto</font>,  Ph.D. (Medicine)
+<font size="6">Jumpei Matsumoto</font> Ph.D. (Medicine)
 
 <img src="images/jm2024.jpg" style="max-width:400px; height:auto;"/>
 
@@ -15,9 +15,7 @@ Email: jm<img src="images/mailadd.jpg" style="height:1em; width:auto; vertical-a
 Affiliated academic societies: Japan Neuroscience Society, Japanese Physiological Society, Japanese Society for Animal Psychology, Society for Neuroscience (USA)  
 *(Photo taken in October 2024)*
 
----
-
-## Table of Contents
+## Contents
 [News](#news) / [Research Interests](#research-interests) / [Technology and Environment](#technology-and-environment) / [Research History](#research-history) / [Publications](#publications) / [Resources](#resources)
 
 ---
@@ -29,7 +27,6 @@ We are recruiting <u>graduate students, undergraduate research students, pre-res
 - For students:  
   We welcome motivated individuals interested in neuroscience, animal behavior, information technology, and/or the integration of these fields. Prior expertise is not required — enthusiasm and curiosity are key. Feel free to contact us if you are interested.  
   Graduate students can receive financial support as research assistants (RAs) through funding programs, including the *Fusion Oriented REsearch for disruptive Science and Technoloy (FOREST)* program, with salaries of up to 200,000 yen/month.
-
 - Part-time positions are also available for tasks such as creating training datasets for machine learning.  
 - Research staff recruitment details: [See here](https://www.u-toyama.ac.jp/wp/wp-content/uploads/employ_20250825-1.pdf)
 
@@ -37,7 +34,7 @@ We are recruiting <u>graduate students, undergraduate research students, pre-res
 
 # Research Interests
 
-To understand the human brain functions and develop treatments for neurological and psychiatric disorders, detailed studies using animal models are essential. However, unlike humans, animals cannot verbally express their internal states — a major challenge, especially when studying brain functions related to emotion and sociality.
+To understand the human brain functions and develop     treatments for neurological and psychiatric disorders, detailed studies using animal models are essential. However, unlike humans, animals cannot verbally express their internal states — a major challenge, especially when studying brain functions related to emotion and sociality.
 
 I am focusing on the rich repertoire of natural behaviors in animals. These seem to reflect the animals' internal states well. By developing methods to measure and analyze these behaviors, I aim to decipher internal states of animals and uncover the neural mechanisms underlying emotion and social interactions.
 
@@ -45,11 +42,10 @@ Specifically, I have developed AI-based markerless motion capture systems for mo
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/UC0WZiKxrj4"
-frameborder="0" allowfullscreen></iframe><b>Video 1:</b> Markerless motion capture for social behavior analysis in monkeys (*Matsumoto et al., 2025, Science Advances*)  
-
+frameborder="0" allowfullscreen></iframe><b>Video 1:</b> Markerless motion capture for social behavior analysis in monkeys (*Matsumoto et al., 2025, Science Advances*)  <br><br>
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/w4XTPwqTDFI"
-frameborder="0" allowfullscreen></iframe><b>Video 2:</b> Acoustic camera system for ultrasonic vocal communication in mice (*Matsumoto et al., 2022, iScience*)
+frameborder="0" allowfullscreen></iframe><b>Video 2:</b> Acoustic camera system for ultrasonic vocal communication in mice (*Matsumoto et al., 2022, iScience*)<br>
 
 ---
 
@@ -64,9 +60,7 @@ We also collaborate with domestic (Kagoshima Univ., Kyushu Inst. of Tech., Nagoy
 
 <img src="images/toyama1.jpeg" style="max-width:300px; height:auto;"/><br>
 <font size="1">©（公社）とやま観光推進機構</font><br>
-
-Toyama is a beautiful region surrounded by the sea and mountains, offering a relaxed lifestyle and rich natural environment.  
-Thanks to the Hokuriku Shinkansen, access to major cities is convenient — about 2.5 hours to Kyoto and 2 hours to Tokyo from Toyama Station.
+Toyama is a region rich in nature, surrounded by the sea and mountains, characterized by its spacious and comfortable living environment. Thanks to the Hokuriku Shinkansen, access to major cities is convenient — about 2.5 hours to Kyoto and 2 hours to Tokyo from Toyama Station.
 
 ---
 
