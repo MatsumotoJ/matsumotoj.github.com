@@ -16,13 +16,13 @@ Affiliated academic societies: Japan Neuroscience Society, Japanese Physiologica
 *(Photo taken in October 2024)*
 
 ## Contents
-[News](#news) / [Research Interests](#research-interests) / [Technology and Environment](#technology-and-environment) / [Research History](#research-history) / [Publications](#publications) / [Resources](#resources)
+[Positions](#positions) / [Research Interests](#research-interests) / [Technology and Environment](#technology-and-environment) / [Research History](#research-history) / [Publications](#publications) / [Resources](#resources)
 
 ---
 
-# News
+# Positions
 
-We are recruiting <u>graduate students, undergraduate research students, pre-research students, research staff, and part-time assistants</u>.
+We are looking for <u>graduate students, undergraduate students, research staff, and part-time research assistants</u> who are interested in joining our projects.
 
 - For students:  
   We welcome motivated individuals interested in neuroscience, animal behavior, information technology, and/or the integration of these fields. Prior expertise is not required — enthusiasm and curiosity are key. Feel free to contact us if you are interested.  
