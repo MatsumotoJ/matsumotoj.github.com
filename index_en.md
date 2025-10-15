@@ -54,7 +54,7 @@ frameborder="0" allowfullscreen></iframe><b>Video 2:</b> Acoustic camera system 
 Our research primarily uses rats, mice, and non-human primates (macaques and marmosets). In addition to developing  behavior analysis methods, our lab has extensive experience in electrophysiological recording during behavior. We also employ advanced techniques such as optogenetics, chemogenetics, and optical imaging to analyze brain function at the circuit level.
 
 At the University of Toyama, researchers in diverse areas of neuroscience gather at the [Research Center for Idling Brain Science (RCIBS)](http://www.sugitani.u-toyama.ac.jp/rcibs/). 
-We also collaborate with domestic (Kagoshima Univ., Kyushu Inst. of Tech., Nagoya City Univ., Kyoto Univ., NCNP, Univ. of Tokyo, etc.) and international partners (Nencki Institute, Univ. of Tübingen, LMU Munich, etc.). Our lab is also part of the [Biology of Behavioral Change (BRAIDYN)](https://braidyn-bc.jp/) research area. Thus, even in a regional setting, our environment offers rich opportunities for collaboration and intellectual exchange with leading researchers.
+We also collaborate with domestic (Kagoshima Univ., Kyushu Inst. of Tech., Nagoya City Univ., Kyoto Univ., NCNP, Univ. of Tokyo, etc.) and international partners (Nencki Institute, Univ. of Tübingen, LMU Munich, etc.). Our lab is also part of the [Biology of Behavioral Change](https://braidyn-bc.jp/) research area. Thus, even in a regional setting, our environment offers rich opportunities for collaboration and intellectual exchange with leading researchers.
 
 ### Living Environment
 
