@@ -15,7 +15,7 @@ Email: jm<img src="images/mailadd.jpg" style="height:1em; width:auto; vertical-a
 Affiliated academic societies: Japan Neuroscience Society, Japanese Physiological Society, Japanese Society for Animal Psychology, Society for Neuroscience (USA)  
 *(Photo taken in October 2024)*
 
-## Contents
+### Contents
 [Positions](#positions) / [Research Interests](#research-interests) / [Technology and Environment](#technology-and-environment) / [Research History](#research-history) / [Publications](#publications) / [Resources](#resources)
 
 ---
