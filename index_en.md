@@ -22,7 +22,7 @@ Affiliated academic societies: Japan Neuroscience Society, Japanese Physiologica
 
 # Positions
 
-We are looking for <u>graduate students, undergraduate students, research staff, and part-time research assistants</u> who are interested in joining our projects.
+We are looking for <u>graduate students, undergraduate students, and part-time research assistants</u> who are interested in joining our projects.
 
 - For students:  
   We welcome motivated individuals interested in neuroscience, animal behavior, information technology, and/or the integration of these fields. Prior expertise is not required — enthusiasm and curiosity are key. Feel free to contact us if you are interested.  
