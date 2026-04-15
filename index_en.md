@@ -26,9 +26,8 @@ We are looking for <u>graduate students, undergraduate students, research staff,
 
 - For students:  
   We welcome motivated individuals interested in neuroscience, animal behavior, information technology, and/or the integration of these fields. Prior expertise is not required — enthusiasm and curiosity are key. Feel free to contact us if you are interested.  
-  Graduate students can receive financial support as research assistants (RAs) through funding programs, including the *Fusion Oriented REsearch for disruptive Science and Technoloy (FOREST)* program, with salaries of up to 200,000 yen/month.
+  Graduate students (master’s and doctoral candidates) can receive financial support as research assistants (RAs) through funding programs, including the *Fusion Oriented REsearch for disruptive Science and Technoloy (FOREST)* program, with salaries of up to 200,000 yen/month.
 - Part-time positions are also available for tasks such as creating training datasets for machine learning.  
-- Research staff recruitment details: [See here](https://www.u-toyama.ac.jp/wp/wp-content/uploads/employ_20250825-1.pdf)
 
 ---
 
